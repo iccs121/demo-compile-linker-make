@@ -1,2 +1,2 @@
-# makefile-demo
-Our in-class demo code, showing how to create a Makefile
+# Demo Code
+Our in-class codes, demonstrating how compilation works, inlining and optimization. Lastly, a sample Makefiles are provided !
